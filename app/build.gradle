@@ -9,6 +9,7 @@ android {
     defaultConfig {
         applicationId "ru.yandex.practicum.contacts"
         minSdk 24
+        //noinspection ExpiredTargetSdkVersion
         targetSdk 31
         versionCode 1
         versionName "1.0"
